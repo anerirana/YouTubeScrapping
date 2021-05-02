@@ -1,3 +1,4 @@
 # YouTubeScrapping
 
-Download youtube playlist using PyTube or YouPy
+Download YouTube playlist using this notebook.
+It uses PyTube and YouPy
